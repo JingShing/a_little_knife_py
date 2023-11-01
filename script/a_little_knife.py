@@ -1,4 +1,6 @@
 from random import randint
+# I hope one day I can made chinese ver of this
+
 # a game was invented in China, called "a little knife"
 weapons = ["knife", "katana", "pistol", "rifle", "grenade"]
 pss_mode = "random" # "input" or "random"
